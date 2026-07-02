@@ -20,10 +20,10 @@ Seperti contoh lain :
 
 ## Pengembangan terkait
 Proyek ini akan dilanjutkan untuk yang lebih baik untuk para pengguna lainnya, seperti :
-> menambahkan fitur tambahan seperti menanyakan lebih banyak pertanyaan
-> Quiz yang mempunyai tingkat kesulitan masing masing
-> solusi dan pengembangan daur ulang dengan bahasa yang mudah dipahami
-> dan lain lain!
+- menambahkan fitur tambahan seperti menanyakan lebih banyak pertanyaan
+- Quiz yang mempunyai tingkat kesulitan masing masing
+- solusi dan pengembangan daur ulang dengan bahasa yang mudah dipahami
+- dan lain lain!
 
 ## Kesimpulan
 Proyek ini akan saya kembangkan dengan bijak dan dengan fitur yang lebih menarik untuk para pengguna lainnya, untuk lebih mudah, proyek ini akan dikembangkan juga dengan visual literasi yang lebih mudah dipahami dan juga singkat agar elemen text tidak menyempit terlalu banyak, dan informasi informasi yang terkait ke discord bot akan ditingkatkan untuk informasi yang lebih nyata dan fakta yang benar
