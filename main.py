@@ -136,4 +136,4 @@ async def fact1(ctx):
     await ctx.send('> wanna play a pop quiz? try typing -startquiz, give it a try!')
     await ctx.send('> Interested to talk with questions without games? type -questions!')
 
-bot.run('MTUxNTMzMTU3OTI5ODQ1MTQ1Ng.Gt-xY9.CMDd5nhonMpKmjIdhkr2iAGKk7EZjTxbSWK8bI')
+bot.run('MTUxNTMzMTU3OTI5ODQ1MTQ1Ng.GBwPss.GtfnuNhMJbeX83jnRXe63tcmKxcY27aFETxRNw')
