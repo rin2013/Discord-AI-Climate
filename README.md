@@ -1,8 +1,8 @@
 # Discord-AI-Climate
-Sebuah aplikasi discord yang menyajikan informasi seputaran perubahan iklim dengan permainan quiz kecil!
+Sebuah aplikasi discord yang menyajikan informasi seputaran perubahan iklim dengan fitur kecil menarik seperti permainan quiz kecil!
 
 ## Tujuan
-Tujuannya untuk memberi kepentingan perubahan iklim dengan bahasa yang bisa dipahami untuk belajar
+Tujuannya untuk memberi kepentingan perubahan iklim dengan bahasa yang bisa dipahami untuk audiens anak anak dan remaja
 
 ## Fungsi dan fitur
 Discord bot ini berfungsi untuk bercakap dalam hal perubahan iklim, fitur lainnya seperti quiz kecil dan pertanyaan tersedia!
